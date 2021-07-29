@@ -13,8 +13,4 @@ def print_melon(melon_dict):
 
 
 print_melon(melon_names)
-#     print(f'{name}s {have_or_have_not} seeds and are ${price:.2f}')
-
-
-# for i in melon_names:
-#     print_melon(melon_names[i], melon_seedlessness[i], melon_prices[i])
+ 
